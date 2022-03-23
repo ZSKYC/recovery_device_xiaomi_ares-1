@@ -40,8 +40,7 @@ TARGET_USES_UEFI := true
 # Platform
 TARGET_BOARD_PLATFORM := mt6893
 
-# Assert
-TARGET_OTA_ASSERT_DEVICE := ares
+
 
 # Kernel
 BOARD_KERNEL_CMDLINE := bootopt=64S3,32N2,64N2
